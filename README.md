@@ -8,3 +8,5 @@ This project provides a simple implementation of a weighted undirected graph usi
   -Breadth-First Search (BFS): Queue-based traversal with edge tracking
   -Prim's Algorithm: For computing the Minimum Spanning Tree (MST)
   -Dijkstra's Algorithm: For computing the Shortest Path Tree (SPT) from a single source
+
+  The PDF Includes a detailed report on the entire process, the time complexity of the code, any errors found along the way and diagrams representing the graph traversal
